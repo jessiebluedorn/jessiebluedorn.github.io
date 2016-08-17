@@ -1,6 +1,5 @@
 body {
-	background: url(file:///Users/jessicabluedorn/Desktop/General%20Assembly%20HTML%20&%20CSS%20Class/Repositories/jessiebluedorn.github.io/unit_3/Images/CityScapeBW.jpg);
-	background-size: cover;
+	background: url("CityScapeBW.jpg")
 }
 
 
