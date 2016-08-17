@@ -1,5 +1,5 @@
 body {
-	background-image: url("http://img06.deviantart.net/3ae0/i/2009/106/e/6/city_skyline_2_black_and_white_by_gestianpoet21.jpg")
+	background-image:url("CityScapeBW.jpg")
 	background-size:cover;
 }
 
@@ -26,3 +26,8 @@ a:link, a:hover, a:active a:visited {
 	color: black; 
 	font-weight: bold;
 }
+
+hr {
+	width: 200px;
+}
+
