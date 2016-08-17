@@ -3,6 +3,9 @@ body {
 	background-size: cover;
 }
 
+hr {
+	width: 200px;
+}
 
 h1, p { 
 	text-align: center;
@@ -20,14 +23,7 @@ p {
 
 a {
 	text-decoration: none; 
-}
-
-a:link, a:hover, a:active a:visited { 
-	color: black; 
+	color: black;
 	font-weight: bold;
-}
 
-hr {
-	width: 200px;
-}
 
