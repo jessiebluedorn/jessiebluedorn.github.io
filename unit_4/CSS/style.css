@@ -12,19 +12,21 @@ h1, p {
 }
 
 h1 {
-	font-size: 90px; 
-	font-family: 'Questrial', sans-serif;
-	font-weight: bold;
+	font-size: 95px; 
+	font-family: 'Playfair Display SC', serif; 
+	font-weight: black;
+	line-height: 1.5em;
 }
 
-p {
-	font-family: 'Lato', sans-serif; font-size: 25px; 
+body {
+	font-family: 'Roboto', sans-serif; 
+	font-size: 37px;
 }
 
 a {
 	text-decoration: none; 
 	color: black;
-	font-weight: bold;
+	font-weight: 900;
 }
 
 .arrow {
