@@ -1,0 +1,35 @@
+
+body{
+	font-size: 16px;
+	font-family: font-family: 'Roboto', sans-serif;
+	text-align: center;
+	background: black;
+	color: white;
+}
+
+li{
+	font-weight: bold;
+	margin: 15px;
+}
+
+ol{
+	text-align: left;
+}
+
+footer{
+	text-align: center;
+	padding: 100px;
+}
+
+
+.navlinks{
+	text-align: center;
+	padding:10px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	background-color: white;
+	color: black;
+}
+
+
