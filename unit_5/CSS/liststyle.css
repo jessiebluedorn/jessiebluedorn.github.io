@@ -1,10 +1,14 @@
 
-body{
+.secondary {
 	font-size: 16px;
 	font-family: font-family: 'Roboto', sans-serif;
 	text-align: center;
 	background: black;
 	color: white;
+}
+
+.sub {
+	font-family: inherit;
 }
 
 li{
@@ -16,13 +20,9 @@ ol{
 	text-align: left;
 }
 
-footer{
-	text-align: center;
-	padding: 100px;
-}
 
 
-.navlinks{
+.navlinkssecondary{
 	text-align: center;
 	padding:10px;
 	text-decoration: none;

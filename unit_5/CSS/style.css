@@ -19,7 +19,7 @@ article {
 }
 
 
-img{
+img {
 	position: relative;
 	width: 50%;
 	padding:20px 0;
@@ -27,7 +27,7 @@ img{
 
 
 
-a{
+a {
 	text-decoration: none;
 	color: black;
 }
@@ -49,8 +49,56 @@ footer{
 	color: white;
 }
 
-.want{
+#speakeasy{
 	position: absolute;
-	padding: 5px;
-	border: 3px black solid;
+	top: 520px;
+	left: 38%;
+	padding: 10px;
+	background: black;
+	font-size: 18px;
+	color:white; 
+
 }
+
+.secondary {
+	font-size: 16px;
+	font-family: font-family: 'Roboto', sans-serif;
+	text-align: center;
+	background: black;
+	color: white;
+
+}
+
+.sub {
+	font-family: inherit;
+}
+
+li{
+	font-weight: bold;
+	margin: 15px;
+}
+
+ol{
+	text-align: left;
+}
+
+
+
+.navlinkssecondary{
+	text-align: center;
+	padding:10px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	background-color: white;
+	color: black;
+}
+
+#coldbrew{
+        position: absolute;
+		top: 1000px;
+		left: 75%;
+		padding: 5px;
+		background: white;
+}
+
