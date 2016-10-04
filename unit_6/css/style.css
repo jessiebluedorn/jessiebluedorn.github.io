@@ -1,10 +1,11 @@
 
 
 h1 {
-	padding-bottom: 50px;
+	margin-left: 20px;
+	margin-top: 30px;
 	font-family:'Lora', serif;
-	font-size: 45px;
-	text-align: center;
+	font-size: 25px;
+	text-align: left;
 
 }
 
@@ -12,7 +13,9 @@ h1 {
 .circle {
     border-radius: 50%;
     padding: 5px;
-    background-color: black;
+    margin-top: 60px;
+    margin-left: 25px;
+ 
 }
 
 #left{
@@ -22,7 +25,7 @@ h1 {
 
 #right{
 	float: right;
-	width: 62%
+	width: 60%
 
 }
 
@@ -39,11 +42,16 @@ h1 {
 article{
 	font-family: 'Slabo 27px', serif;
 	letter-spacing: 1px;
+	padding-top: 120px;
+	margin-right:25px;
+	text-align: center;
+	font-size: 17px;
 }
 
 a{  
 	text-decoration: none;
 	color: black;
+	color: gray;
 
 }
 
@@ -56,3 +64,26 @@ footer{
 	padding-top: 100px;
 }
 
+hr{
+	color: gray;
+}
+
+small{
+	padding-top:5px;
+	border-top: gray solid 1px;
+}
+
+.social{
+	height: 30px;
+	width: 30px;
+	text-align: center;
+}
+
+p{
+	padding: 20px;
+
+}
+
+.break{
+	width: 30px;
+}
