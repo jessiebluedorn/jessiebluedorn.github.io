@@ -4,7 +4,7 @@ h1 {
 	margin-left: 20px;
 	margin-top: 30px;
 	font-family:'Lora', serif;
-	font-size: 25px;
+	font-size: 35px;
 	text-align: left;
 
 }
@@ -45,7 +45,7 @@ article{
 	padding-top: 120px;
 	margin-right:25px;
 	text-align: center;
-	font-size: 17px;
+	font-size: 20px;
 }
 
 a{  
@@ -68,15 +68,12 @@ hr{
 	color: gray;
 }
 
-small{
-	padding-top:5px;
-	border-top: gray solid 1px;
-}
 
 .social{
 	height: 30px;
 	width: 30px;
 	text-align: center;
+	border: bottom gray 5px;
 }
 
 p{
@@ -86,4 +83,16 @@ p{
 
 .break{
 	width: 30px;
+}
+
+#line1{
+	color: pink;
+}
+
+#line2{
+	color:pink;
+}
+
+#line3{
+	color:pink;
 }
